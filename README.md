@@ -1,2 +1,2 @@
 # Cognifyz-DataScience-Internship
-Restaurat Dataset:
+Restaurant Dataset:
